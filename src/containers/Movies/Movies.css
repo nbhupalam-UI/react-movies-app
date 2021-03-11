@@ -1,0 +1,17 @@
+.movies-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.movies-list-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.movies-by {
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid lightgray;
+    margin-top: 40px;
+    padding-top: 20px;
+}
